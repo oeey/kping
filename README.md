@@ -1,0 +1,2 @@
+# kping
+Console ping script
